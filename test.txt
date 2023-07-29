@@ -1,0 +1,19 @@
+2023                                2022-2021
+1.'federal_prj_id',                 1. federal_prj_id
+2. 'federal_org_id',                2. federal_org_id
+3. 'prj_date',                      3. prj_date
+4. 'year_no',                       4. year_no
+5. 'year_plan',                     5. year_plan - столбец с индексом 0 в блоке года
+6. 'year_achieved_cnt',             6. year_achieved_cnt - столбец с индексом 1 в блоке года
+7. 'year_achieved_percent',         7. year_achieved_percent - столбец с индексом 2 в блоке года
+8. 'year_left_cnt',                 8. None
+9. 'year_left_percent',             9. None
+10.'year_delayed_cnt',              10. year_delayed_cnt - столбец с индексом 3 в блоке года
+11. 'year_delayed_percent',         11. year_delayed_percent - столбец с индексом 4 в блоке года
+12. 'total_delayed_cnt'-None,       12. total_delayed_cnt - столбец с индексом 0 в датасете "итого" правого датасета
+13. 'total_delayed_percent'-None,   13. total_delayed_percent - столбец с индексом 1 в датасете "итого"
+14. 'created_at',                   14. None
+15. 'updated_at',                   15. None
+16. 'created_from',                 16. created_from - дата из названия файла
+17. created_to                      17. created_to - воскресенье 23:59 недели, содержащей дату из названия файла
+18. 'relevance_dttm'                18. relevance_dttm - дата из ячейки R1
